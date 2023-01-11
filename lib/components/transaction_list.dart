@@ -16,7 +16,7 @@ class TransactionList extends StatelessWidget {
     Intl.defaultLocale = 'pt_BR';
     initializeDateFormatting('pt-_BR', null);
     return Container(
-      height: 430,
+      height: MediaQuery.of(context).size.height * 0.60,
       child: transactions.isEmpty
           ? Column(
               children: [
