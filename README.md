@@ -1,6 +1,6 @@
 # app_despesas
 
-A new Flutter project.
+Projeto de controle de despesas pessoais. Controla as despesas de até 7 dias atrás e possui a função de adicionar e remover as despesas.
 
 ## Getting Started
 
